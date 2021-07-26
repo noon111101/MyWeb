@@ -1,13 +1,51 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #c74b02;
+  background-image: url("car1.jpg") ;
+  background-size:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-y: 65%;
+  min-height: 100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/*.App-header {*/
+/*  background-color: #4f1e21;*/
+/*  background-image: url("car1.jpg") ;*/
+/*  background-size:100%;*/
+/*  background-position: center;*/
+/*  background-repeat: no-repeat;*/
+/*  background-position-y: 65%;*/
+/*  min-height: 100vh;*/
+
+/*}*/
+
+/*.navbar a:hover {*/
+/*  color: #b54311;*/
+/*}*/
+/*.navbar{*/
+/*display: grid;*/
+/*grid-template-columns: repeat(6,1fr);*/
+/*  padding: 20px;*/
+/*  margin: 0 auto;*/
+/*}*/
+/*.navbar h1{*/
+/*  grid-column: 2;*/
+/*}*/
+/*.navbar .links{*/
+/*  grid-column:6;*/
+/*  text-decoration: none;*/
+/*  padding: 6px;*/
+/*  font-size: 20px;*/
+/*  margin: 10px;*/
+
+
+/*}*/
